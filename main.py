@@ -13,3 +13,8 @@ with col2:
     Senior Web Developer with 10+ years of experience specializing in designing modern, responsive, and user-friendly websites. Proficient in working with WordPress, HubSpot, and utilizing frameworks like Bootstrap and Tailwind CSS for custom designs. I have successfully delivered custom development projects and collaborated with various international and national clients/companies to achieve their digital goals.
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built in Python. Feel free to contact me!
+"""
+st.write(content2)
